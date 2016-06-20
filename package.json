@@ -16,7 +16,7 @@
     "babel-plugin-react-transform": "^2.0.2",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.3",
-    "redbox-react": "^1.2.2"
+    "redbox-react": "https://github.com/macklinu/redbox-react#a71cbbd051f502fabb6a05e3b94800f64db008e8"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
